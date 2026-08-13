@@ -1,0 +1,6 @@
+{
+  "name": "Chai Radio - Vintage Indian Street YouTube Player",
+  "description": "Distraction-free YouTube playlist shuffle player with ambient soundscapes and animated vintage Indian street atmosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
